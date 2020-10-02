@@ -1,6 +1,6 @@
 # extract-stealth-evasions
 
-This script offers a quick way to extract the latest stealth evasions from [puppeteer-extra-stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) to (minified) JavaScript. The resulting JS file can be used in pure [CDP](https://chromedevtools.github.io/devtools-protocol/tot/) implementations or to test the evasions in your devtools.
+This script offers a quick way to extract the latest stealth evasions from the script [puppeteer-extra-stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) to (minified) JavaScript. The resulting JS file can be used in pure [CDP](https://chromedevtools.github.io/devtools-protocol/tot/) implementations or to test the evasions in your devtools.
 
 #### Usage with `npx`
 
